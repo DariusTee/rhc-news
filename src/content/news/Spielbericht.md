@@ -15,5 +15,9 @@ Der RHC Recklinghausen zeigte am Wochenende vor heimischem Publikum eine starke 
 - Gute Defensive
 - Starke Unterstützung von den Rängen
 
-![Beschreibung](https://pub-c81755f320b94f7ba5301c58104f311c.r2.dev/bilder_webp/Darius%20Teelen%20schie%C3%9Ft%20auf%20das%20Tor.webp) ![Beschreibung](https://pub-c81755f320b94f7ba5301c58104f311c.r2.dev/bilder_webp/Darius%20Teelen%20schie%C3%9Ft%20auf%20das%20Tor.webp) ![Beschreibung](https://pub-c81755f320b94f7ba5301c58104f311c.r2.dev/bilder_webp/Darius%20Teelen%20schie%C3%9Ft%20auf%20das%20Tor.webp)
+<div class="image-row">
+  <img src="https://pub-c81755f320b94f7ba5301c58104f311c.r2.dev/bilder_webp/Darius%20Teelen%20schie%C3%9Ft%20auf%20das%20Tor.webp" alt="Bild 1" />
+  <img src="https://pub-c81755f320b94f7ba5301c58104f311c.r2.dev/bilder_webp/Darius%20Teelen%20schie%C3%9Ft%20auf%20das%20Tor.webp" alt="Bild 2" />
+  <img src="https://pub-c81755f320b94f7ba5301c58104f311c.r2.dev/bilder_webp/Darius%20Teelen%20schie%C3%9Ft%20auf%20das%20Tor.webp" alt="Bild 3" />
+</div>
 
