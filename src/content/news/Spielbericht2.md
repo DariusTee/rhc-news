@@ -14,4 +14,6 @@ Der RHC Recklinghausen zeigte am Wochenende vor heimischem Publikum eine starke 
 Am letzten Spieltag der Rollhockey Bundesliga holte der RHC drei wichtige Punkte und konnte
 an Darmstast vorbeiziehen und sich noch kurz vor Schluss für die PlayOff qualifizieren.
 
+> Starkes Spiel!
+
 console.log("Hallo")
