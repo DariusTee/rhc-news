@@ -12,7 +12,7 @@ image: "https://pub-c81755f320b94f7ba5301c58104f311c.r2.dev/bilder_webp/Darius%2
 # Unsere neue Website ist da! 🎉
 
 Der RHC Recklinghausen präsentiert seine neue Vereinswebsite!  
-Unter 👉 https://splendid-parfait-948593.netlify.app/ findest du ab sofort alle wichtigen Informationen rund um unseren Verein – modern, schnell und übersichtlich.
+Unter 👉 https://www.rhc-recklinghausen.de findest du ab sofort alle wichtigen Informationen rund um unseren Verein – modern, schnell und übersichtlich.
 
 ## 🔍 Was ist neu?
 
