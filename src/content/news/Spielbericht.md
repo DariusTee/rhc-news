@@ -11,11 +11,6 @@ Der RHC Recklinghausen zeigte am Wochenende vor heimischem Publikum eine starke 
 
 ## Highlights
 
-| Name | Tore |
-|------|------|
-| Max  | 3    |
-| Tim  | 2    |
-
 - Viel Tempo
 - Gute Defensive
 - Starke Unterstützung von den Rängen
