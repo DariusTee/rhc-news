@@ -33,10 +33,6 @@ Im News-Bereich findest du:
 - Einblicke ins Training  
 - Wichtige Infos für Mitglieder  
 
-👉 Mit einem Klick auf **„Weiterlesen“** öffnet sich der komplette Artikel.
-
-👉 Bilder kannst du anklicken und groß anschauen.
-
 ## 📱 Optimiert für Handy & Desktop
 
 Egal ob Smartphone, Tablet oder PC:  
