@@ -26,3 +26,5 @@ Mit einem Klick öffnet sich die Seite wie eine eigene App – schnell, übersic
 
 Es wird **keine App installiert**, sondern nur eine Verknüpfung erstellt.  
 Die Inhalte bleiben immer aktuell.
+
+Bei Fragen helfen wir euch gerne weiter!
