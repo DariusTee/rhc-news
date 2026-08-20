@@ -4,7 +4,7 @@ date: "2026-03-24"
 category: "Verein"
 author: "RHC Recklinghausen"
 status: "published"
-pinned: "true"
+pinned: "false"
 preview: "Erfahre, was unsere neue Website kann und wie du sie optimal nutzt."
 image: "https://pub-c81755f320b94f7ba5301c58104f311c.r2.dev/bilder_webp/LinkLogo.webp"
 ---
