@@ -4,7 +4,7 @@ date: "2026-04-10"
 category: "Verein"
 author: "RHC Redaktion"
 status: "published"
-pinned: "true"
+pinned: "false"
 preview: "Du kannst unsere Website ganz einfach wie eine App auf deinem Handy nutzen – ohne Download aus dem App Store."
 image: "https://pub-c81755f320b94f7ba5301c58104f311c.r2.dev/bilder_webp/website-verkn%C3%BCpfung-thumbnail.webp"
 ---
