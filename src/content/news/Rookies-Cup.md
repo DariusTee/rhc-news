@@ -28,10 +28,10 @@ Beim Rookie Cup dürfen wir in diesem Jahr mehrere Nachwuchsmannschaften in Reck
 **Teilnehmende Teams:**
 
 * RHC Recklinghausen
-* [Mannschaft 2]
-* [Mannschaft 3]
-* [Mannschaft 4]
-* [weitere Mannschaften]
+* IGR Remscheid
+* HSV Krefeld
+* RSC Gera
+* RSC Cronenberg
 
 Damit treffen Kinder aus verschiedenen Vereinen aufeinander, die eines gemeinsam haben: die Freude am Rollhockey und daran, sich auf der Bahn weiterzuentwickeln.
 
