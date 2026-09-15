@@ -79,14 +79,6 @@ Neue Gegner, neue Spielsituationen und gemeinsame Erlebnisse innerhalb der Manns
 
 Gleichzeitig entsteht genau das, was Nachwuchssport ausmacht: **Freude an Bewegung, Teamgeist, Gemeinschaft und Begeisterung für den Sport.**
 
-## Heimspiel vor eigener Kulisse
-
-Für unsere Rookies findet der letzte gemeinsame Auftritt zudem in der eigenen **Heinrich-Auge-Sporthalle** statt.
-
-Familien, Freunde, Vereinsmitglieder und alle Rollhockeyinteressierten können die Mannschaft noch einmal gemeinsam erleben und unseren Nachwuchs von der Tribüne unterstützen.
-
-Gerade für unsere Spielerinnen und Spieler soll es ein Wochenende werden, an das sie gerne zurückdenken.
-
 ## Spielplan und Ergebnisse
 
 Alle Begegnungen, Uhrzeiten und Ergebnisse des Rookie Cups findet ihr auf unserer Website:
