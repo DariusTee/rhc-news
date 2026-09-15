@@ -1,7 +1,7 @@
 ---
 
 title: "Rookie Cup 2026: Nachwuchshockey in Recklinghausen"
-date: "2026-09-14"
+date: "2026-09-15"
 category: "Jugend"
 author: "RHC Recklinghausen"
 status: "unpublished"
