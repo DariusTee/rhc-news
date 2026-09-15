@@ -11,8 +11,6 @@ image: "https://pub-c81755f320b94f7ba5301c58104f311c.r2.dev/news/Rookies-Cup/Roo
 
 ---
 
-# Rookie Cup 2026: Ein besonderes Wochenende für unseren Nachwuchs
-
 Am **19. und 20. September 2026** steht die Heinrich-Auge-Sporthalle ganz im Zeichen des Nachwuchsrollhockeys.
 
 Beim **Rookie Cup 2026** treffen junge Mannschaften aus verschiedenen Vereinen aufeinander, sammeln wichtige Spielpraxis und erleben gemeinsam zwei Tage voller Rollhockey.
