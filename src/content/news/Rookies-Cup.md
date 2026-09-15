@@ -19,7 +19,7 @@ Beim **Rookie Cup 2026** treffen junge Mannschaften aus verschiedenen Vereinen a
 
 Für unsere **RHC Rookies** wird dieses Turnier jedoch noch einmal ganz besonders: **Es ist das letzte Mal, dass diese Mannschaft in ihrer aktuellen Zusammensetzung gemeinsam auf der Bahn steht.**
 
-Damit endet für dieses Team ein gemeinsamer Abschnitt – und gleichzeitig wartet zum Abschluss noch einmal ein Wochenende voller Spiele, Teamgeist und gemeinsamer Erlebnisse.
+Damit endet für dieses Team ein gemeinsamer Abschnitt. Und gleichzeitig wartet zum Abschluss noch einmal ein Wochenende voller Spiele, Teamgeist und gemeinsamer Erlebnisse.
 
 ![Unsere RHC Rookies beim Rookie Cup](https://pub-c81755f320b94f7ba5301c58104f311c.r2.dev/bilder_webp/Teams/Rookies.webp)
 
