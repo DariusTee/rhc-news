@@ -6,24 +6,25 @@ category: "Jugend"
 author: "RHC Recklinghausen"
 status: "unpublished"
 pinned: "false"
-preview: "Am 19. und 20. September steht die Heinrich-Auge-Sporthalle ganz im Zeichen des Nachwuchses. Für unsere Rookies wird es ein besonderes Wochenende: Zum letzten Mal tritt die aktuelle Mannschaft in dieser Besetzung gemeinsam an."
+preview: "Am 19. und 20. September feiert der Rookie Cup seine Premiere in Recklinghausen. Nachdem das ursprünglich geplante Turnier wetterbedingt verschoben werden musste, tritt unsere bisherige Rookie-Mannschaft noch einmal gemeinsam an."
 image: "https://pub-c81755f320b94f7ba5301c58104f311c.r2.dev/news/Rookies-Cup/Rookies-Cup_Poster.jpeg"
+-----------------------------------------------------------------------------------------------------
 
----
+Am **19. und 20. September 2026** steht die Heinrich-Auge-Sporthalle ganz im Zeichen des Nachwuchsrollhockeys. An diesem Wochenende feiert der **Rookie Cup seine Premiere in Recklinghausen**.
 
-Am **19. und 20. September 2026** steht die Heinrich-Auge-Sporthalle ganz im Zeichen des Nachwuchsrollhockeys.
+Eigentlich sollte die erste Auflage bereits zu einem früheren Zeitpunkt stattfinden. Aufgrund der damaligen Wetterbedingungen musste das Turnier jedoch verschoben werden. Nun wird der Rookie Cup nachgeholt – und dadurch ergibt sich für unsere **RHC Rookies** eine besondere Situation:
 
-Beim **Rookie Cup 2026** treffen junge Mannschaften aus verschiedenen Vereinen aufeinander, sammeln wichtige Spielpraxis und erleben gemeinsam zwei Tage voller Rollhockey.
+**Noch einmal tritt die bisherige Rookie-Mannschaft gemeinsam auf der Bahn an.**
 
-Für unsere **RHC Rookies** wird dieses Turnier jedoch noch einmal ganz besonders: **Es ist das letzte Mal, dass diese Mannschaft in ihrer aktuellen Zusammensetzung gemeinsam auf der Bahn steht.**
+Für einige Kinder steht anschließend der nächste Schritt in ihrer sportlichen Entwicklung an. Der nachgeholte Rookie Cup wird damit gleichzeitig zum letzten gemeinsamen Turnier dieser Mannschaft in ihrer bisherigen Zusammensetzung.
 
-Damit endet für dieses Team ein gemeinsamer Abschnitt. Und gleichzeitig wartet zum Abschluss noch einmal ein Wochenende voller Spiele, Teamgeist und gemeinsamer Erlebnisse.
+Ein besonderer Abschluss für ein Team, das viele Trainingseinheiten, Spiele und gemeinsame Erlebnisse miteinander geteilt hat.
 
 ![Unsere RHC Rookies beim Rookie Cup](https://pub-c81755f320b94f7ba5301c58104f311c.r2.dev/bilder_webp/Teams/Rookies.webp)
 
-## Fünf Vereine zu Gast in Recklinghausen
+## Premiere mit fünf Vereinen
 
-Beim Rookie Cup dürfen wir in diesem Jahr Mannschaften aus fünf Vereinen in der Heinrich-Auge-Sporthalle begrüßen.
+Bei der ersten Auflage des Rookie Cups dürfen wir Mannschaften aus insgesamt fünf Vereinen in der Heinrich-Auge-Sporthalle begrüßen.
 
 Mit dabei sind:
 
@@ -33,7 +34,7 @@ Mit dabei sind:
 * **RSC Gera**
 * **RSC Cronenberg**
 
-Damit kommen Nachwuchsspielerinnen und Nachwuchsspieler aus verschiedenen Regionen zusammen, die vor allem eines verbindet: die Begeisterung für Rollhockey und die Freude daran, sich gemeinsam auf der Bahn weiterzuentwickeln.
+Damit kommen Nachwuchsspielerinnen und Nachwuchsspieler aus verschiedenen Regionen zusammen, die vor allem eines verbindet: die Begeisterung für Rollhockey und die Freude daran, gemeinsam auf der Bahn Erfahrungen zu sammeln.
 
 ## Spielpraxis steht im Mittelpunkt
 
@@ -41,21 +42,9 @@ Der Rookie Cup bietet jungen Spielerinnen und Spielern die Möglichkeit, wichtig
 
 Im Rookie-Bereich steht dabei nicht allein das Ergebnis im Vordergrund. Viel wichtiger sind Spielpraxis, mutige Aktionen, das Zusammenspiel mit den eigenen Teamkolleginnen und Teamkollegen und die Erfahrung, sich in echten Spielsituationen zu behaupten.
 
-Pässe unter Gegnerdruck, Zweikämpfe, Torabschlüsse und das gemeinsame Verteidigen lassen sich im Training vorbereiten – wirklich lernen kann man vieles davon aber erst im Spiel.
+Pässe unter Gegnerdruck, Zweikämpfe, Torabschlüsse und gemeinsames Verteidigen lassen sich im Training vorbereiten – vieles davon entwickelt sich jedoch vor allem durch echte Spielerfahrung.
 
 Jede Aktion auf der Bahn trägt deshalb zur Entwicklung der Kinder bei.
-
-## Ein letzter gemeinsamer Auftritt
-
-Für unsere Rookies hat das Wochenende noch einmal eine besondere Bedeutung.
-
-Die Mannschaft hat in dieser Zusammensetzung viele gemeinsame Trainingseinheiten, Spiele und Turniere erlebt. Beim Rookie Cup tritt dieses Team nun **zum letzten Mal gemeinsam an**.
-
-Danach beginnt für die Spielerinnen und Spieler der nächste Schritt in ihrer sportlichen Entwicklung.
-
-Umso schöner ist es, dass dieser gemeinsame Abschnitt mit einem Heimturnier endet – in der eigenen Halle, vor Familien, Freunden und dem eigenen Verein.
-
-Unabhängig von Ergebnissen soll dieses Wochenende deshalb vor allem eines sein: **ein schöner Abschluss für eine Mannschaft, die gemeinsam viel gelernt und erlebt hat.**
 
 ## Ein ganzes Wochenende für den Nachwuchs
 
@@ -69,16 +58,6 @@ Hier können Kinder, die noch ganz am Anfang stehen, erste Erfahrungen im Spiel 
 
 Vom **Minihockey über die Rookies bis zur C-Jugend** zeigt das Wochenende damit die gesamte Bandbreite unserer Nachwuchsarbeit.
 
-## Mehr als Ergebnisse und Tabellen
-
-Gerade im Nachwuchsbereich geht es um weit mehr als Tore, Punkte und Platzierungen.
-
-Turniere wie der Rookie Cup bringen Kinder und Vereine zusammen, schaffen neue Begegnungen und geben jungen Spielerinnen und Spielern die Möglichkeit, über den Trainingsalltag hinaus Erfahrungen zu sammeln.
-
-Neue Gegner, neue Spielsituationen und gemeinsame Erlebnisse innerhalb der Mannschaft machen solche Wochenenden zu einem wichtigen Teil der sportlichen Entwicklung.
-
-Gleichzeitig entsteht genau das, was Nachwuchssport ausmacht: **Freude an Bewegung, Teamgeist, Gemeinschaft und Begeisterung für den Sport.**
-
 ## Spielplan und Ergebnisse
 
 Alle Begegnungen, Uhrzeiten und Ergebnisse des Rookie Cups findet ihr auf unserer Website:
@@ -91,14 +70,15 @@ Dort werden die Partien und Ergebnisse laufend aktualisiert.
 
 Wir freuen uns über alle, die an diesem Wochenende den Weg in die Heinrich-Auge-Sporthalle finden.
 
-Ob Eltern, Geschwister, Vereinsmitglieder oder Menschen, die Rollhockey vielleicht zum ersten Mal erleben: Der Rookie Cup bietet eine schöne Gelegenheit, unseren Sport und die Nachwuchsarbeit des RHC Recklinghausen kennenzulernen.
+Ob Eltern, Geschwister, Vereinsmitglieder oder Menschen, die Rollhockey vielleicht zum ersten Mal erleben: Die Premiere des Rookie Cups bietet eine schöne Gelegenheit, unseren Sport und die Nachwuchsarbeit des RHC Recklinghausen kennenzulernen.
 
 Mit Rookie Cup, C-Jugend-Testspiel und Minihockey wartet ein komplettes Wochenende voller Nachwuchsrollhockey.
 
-Für unsere Rookies wird es dabei noch einmal ganz besonders.
+Für unsere Rookies wird es dabei noch einmal ganz besonders:
 
-**Ein letztes Mal gemeinsam als Mannschaft. Ein letztes Heimturnier in dieser Besetzung. Und hoffentlich noch einmal viele schöne Momente auf und neben der Bahn.**
+**Ein letztes gemeinsames Turnier in dieser Besetzung – und gleichzeitig die Premiere eines neuen Turniers in Recklinghausen.**
 
-**Wir wünschen allen teilnehmenden Mannschaften viel Spaß und freuen uns auf ein besonderes Rollhockey-Wochenende in Recklinghausen. 💚💛**
+Wir wünschen allen teilnehmenden Mannschaften viel Spaß und freuen uns auf die **erste Auflage des Rookie Cups** und ein besonderes Rollhockey-Wochenende in Recklinghausen. 💚💛
+
 
 
