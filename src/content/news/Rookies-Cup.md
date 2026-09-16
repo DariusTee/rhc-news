@@ -12,7 +12,7 @@ image: "https://pub-c81755f320b94f7ba5301c58104f311c.r2.dev/news/Rookies-Cup/Roo
 
 Am **19. und 20. September 2026** steht die Heinrich-Auge-Sporthalle ganz im Zeichen des Nachwuchsrollhockeys. An diesem Wochenende feiert der **Rookie Cup seine Premiere in Recklinghausen**.
 
-Eigentlich sollte die erste Auflage bereits zu einem früheren Zeitpunkt stattfinden. Aufgrund der damaligen Wetterbedingungen musste das Turnier jedoch verschoben werden. Nun wird der Rookie Cup nachgeholt – und dadurch ergibt sich für unsere **RHC Rookies** eine besondere Situation:
+Eigentlich sollte die erste Auflage bereits zu einem früheren Zeitpunkt stattfinden. Aufgrund der damaligen Wetterbedingungen musste das Turnier jedoch verschoben werden. Nun wird der Rookie Cup nachgeholt und dadurch ergibt sich für unsere **RHC Rookies** eine besondere Situation:
 
 **Noch einmal tritt die bisherige Rookie-Mannschaft gemeinsam auf der Bahn an.**
 
@@ -76,7 +76,7 @@ Mit Rookie Cup, C-Jugend-Testspiel und Minihockey wartet ein komplettes Wochenen
 
 Für unsere Rookies wird es dabei noch einmal ganz besonders:
 
-**Ein letztes gemeinsames Turnier in dieser Besetzung – und gleichzeitig die Premiere eines neuen Turniers in Recklinghausen.**
+**Ein letztes gemeinsames Turnier in dieser Besetzung und gleichzeitig die Premiere eines neuen Turniers in Recklinghausen.**
 
 Wir wünschen allen teilnehmenden Mannschaften viel Spaß und freuen uns auf die **erste Auflage des Rookie Cups** und ein besonderes Rollhockey-Wochenende in Recklinghausen. 💚💛
 
