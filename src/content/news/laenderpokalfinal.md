@@ -5,7 +5,7 @@ category: "Jugend"
 author: "RHC Recklinghausen"
 status: "published"
 pinned: "false"
-preview: "Drei RHC-Nachwuchstalente beim Länderpokal in Walsum: Aaron Vermaaten, Leon Krämer und Finn Krämer vertreten Westfalen/Ruhr und feiern zum Abschluss einen 4:1-Erfolg gegen Sachsen."
+preview: "Drei RHC-Nachwuchstalente beim Länderpokal in Walsum: Aaron Vermaaten, Leon Krämer und Finn Krämer vertreten Westfalen/Ruhr und feiern zum Abschluss einen 5:1-Erfolg gegen Sachsen."
 image: "https://pub-c81755f320b94f7ba5301c58104f311c.r2.dev/news/laenderpokal/WhatsApp%20Image%202026-11-13%20at%2017.20.05.jpeg"
 ---
 
