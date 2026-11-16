@@ -76,7 +76,7 @@ Vier Siege aus sechs Spielen zeigen, dass unsere Rookies in dieser Saison ganz v
 
 Neben den sportlichen Ergebnissen bleiben vor allem die gemeinsamen Erlebnisse auf und neben der Bahn in Erinnerung. Hier gibt es weitere Eindrücke vom Heimspieltag unserer Rookies.
 
-![Rookies Heimspieltag – Impression 6](https://pub-c81755f320b94f7ba5301c58104f311c.r2.dev/news/Rookies_Spieltag_15_11_26/IMG-20261115-WA0055.jpg)
+![Rookies Heimspieltag – Impression 6](https://pub-c81755f320b94f7ba5301c58104f311c.r2.dev/news/Rookies_Spieltag_15_11_26/IMG-20261115-WA0137.jpg)
 
 ![Rookies Heimspieltag – Impression 7](https://pub-c81755f320b94f7ba5301c58104f311c.r2.dev/news/Rookies_Spieltag_15_11_26/IMG-20261115-WA0069.jpg)
 
