@@ -27,9 +27,9 @@ Die Begegnung blieb bis zum Schluss spannend. Kurz vor Spielende gelang Düsseld
 
 Trotz der Niederlage bewiesen unsere Nachwuchsspieler großen Kampfgeist und zeigten, dass sie auch nach einem frühen Rückstand nicht aufgeben.
 
-![Rookies beim Heimspieltag gegen Düsseldorf-Nord](https://pub-c81755f320b94f7ba5301c58104f311c.r2.dev/news/Rookies_Spieltag_15_11_26/IMG-20261115-WA0118.jpg)
+![Rookies beim Heimspieltag gegen Düsseldorf-Nord](https://pub-c81755f320b94f7ba5301c58104f311c.r2.dev/news/Rookies_Spieltag_15_11_26/IMG-20261115-WA0140.jpg)
 
-![Rookies Heimspieltag – Impression 1](https://pub-c81755f320b94f7ba5301c58104f311c.r2.dev/news/Rookies_Spieltag_15_11_26/IMG-20261115-WA0140.jpg)
+![Rookies Heimspieltag – Impression 1](https://pub-c81755f320b94f7ba5301c58104f311c.r2.dev/news/Rookies_Spieltag_15_11_26/IMG-20261115-WA0136.jpg)
 
 ![Rookies Heimspieltag – Impression 2](https://pub-c81755f320b94f7ba5301c58104f311c.r2.dev/news/Rookies_Spieltag_15_11_26/IMG-20261115-WA0136.jpg)
 
