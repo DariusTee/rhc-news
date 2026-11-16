@@ -80,7 +80,7 @@ Neben den sportlichen Ergebnissen bleiben vor allem die gemeinsamen Erlebnisse a
 
 ![Rookies Heimspieltag – Impression 7](https://pub-c81755f320b94f7ba5301c58104f311c.r2.dev/news/Rookies_Spieltag_15_11_26/IMG-20261115-WA0069.jpg)
 
-![Rookies Heimspieltag – Impression 8](https://pub-c81755f320b94f7ba5301c58104f311c.r2.dev/news/Rookies_Spieltag_15_11_26/IMG-20261115-WA0075.jpg)
+![Rookies Heimspieltag – Impression 8](https://pub-c81755f320b94f7ba5301c58104f311c.r2.dev/news/Rookies_Spieltag_15_11_26/IMG-20261115-WA0157.jpg)
 
 ![Rookies Heimspieltag – Impression 9](https://pub-c81755f320b94f7ba5301c58104f311c.r2.dev/news/Rookies_Spieltag_15_11_26/IMG-20261115-WA0082.jpg)
 
