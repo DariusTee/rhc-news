@@ -86,6 +86,8 @@ Neben den sportlichen Ergebnissen bleiben vor allem die gemeinsamen Erlebnisse a
 
 ![Rookies Heimspieltag – Impression 10](https://pub-c81755f320b94f7ba5301c58104f311c.r2.dev/news/Rookies_Spieltag_15_11_26/IMG-20261115-WA0084.jpg)
 
+Weitere Bilder unter: https://photos.app.goo.gl/n4NBb9uaQysdqXw18
+
 ## Gemeinsam weiter wachsen
 
 Mit insgesamt **sechs erzielten Toren** und einem Sieg aus zwei Begegnungen können unsere Rookies auf einen ereignisreichen Heimspieltag zurückblicken.
