@@ -3,7 +3,7 @@ title: "Rookies zeigen Kampfgeist beim Heimspieltag"
 date: "2026-11-16"
 category: "Jugend"
 author: "RHC Recklinghausen"
-status: "published"
+status: "notpublished"
 pinned: "false"
 preview: "Ein 4:0-Sieg gegen Cronenberg, eine knappe 2:3-Niederlage gegen Düsseldorf-Nord und weiterhin mitten im Titelrennen: Die Rookies des RHC Recklinghausen überzeugen beim Heimspieltag."
 image: "https://pub-c81755f320b94f7ba5301c58104f311c.r2.dev/news/Rookies_Spieltag_15_11_26/IMG-20261115-WA0143.jpg"
@@ -94,4 +94,4 @@ Besonders erfreulich waren die Aufholjagd gegen Düsseldorf-Nord und die starke 
 
 Ein großes Dankeschön gilt allen Eltern, Helfern und Zuschauern, die unsere Nachwuchsspieler in der Halle unterstützt haben.
 
-**Weiter so, Rookies! Grün und Gelb – ein Leben lang!**
+**Weiter so, Rookies! 💚💛**
