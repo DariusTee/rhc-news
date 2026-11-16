@@ -92,6 +92,7 @@ Neben den sportlichen Ergebnissen bleiben vor allem die gemeinsamen Erlebnisse a
 
 ![Rookies Heimspieltag – Impression 13](https://pub-c81755f320b94f7ba5301c58104f311c.r2.dev/news/Rookies_Spieltag_15_11_26/IMG-20261115-WA0127.jpg)
 
+
 [Weitere Bilder vom Heimspieltag ansehen](https://photos.app.goo.gl/n4NBb9uaQysdqXw18)
 
 ## Gemeinsam weiter wachsen
