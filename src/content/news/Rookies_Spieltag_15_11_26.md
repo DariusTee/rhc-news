@@ -23,7 +23,7 @@ Doch unsere Rookies ließen sich davon nicht beeindrucken. **Ari Teelen** verkü
 
 In der zweiten Halbzeit gelang **Liah van de Weyer** schließlich der Ausgleich zum 2:2.
 
-Die Begegnung blieb bis zum Schluss spannend. Kurz vor Spielende gelang Düsseldorf-Nord jedoch der entscheidende Treffer zum **2:3-Endstand**.
+Die Begegnung blieb bis zum Schluss spannend. Unsere Rookies erspielten sich zahlreiche hochkarätige Torchancen, ließen diese jedoch ungenutzt. Kurz vor Spielende gelang Düsseldorf-Nord jedoch der entscheidende Treffer zum **2:3-Endstand**. 
 
 Trotz der Niederlage bewiesen unsere Nachwuchsspieler großen Kampfgeist und zeigten, dass sie auch nach einem frühen Rückstand nicht aufgeben.
 
@@ -92,7 +92,7 @@ Neben den sportlichen Ergebnissen bleiben vor allem die gemeinsamen Erlebnisse a
 
 ![Rookies Heimspieltag – Impression 13](https://pub-c81755f320b94f7ba5301c58104f311c.r2.dev/news/Rookies_Spieltag_15_11_26/IMG-20261115-WA0127.jpg)
 
-Weitere Bilder unter: https://photos.app.goo.gl/n4NBb9uaQysdqXw18
+[Weitere Bilder vom Heimspieltag ansehen](https://photos.app.goo.gl/n4NBb9uaQysdqXw18)
 
 ## Gemeinsam weiter wachsen
 
